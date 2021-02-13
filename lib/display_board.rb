@@ -6,9 +6,10 @@ def display_board(board)
   puts "-----------"
   puts "   |   |   "
 end
-puts " O |   |   "
-puts "-----------"
-puts "   |   |   "
-puts "-----------"
-puts "   |   |   "
+def display_board
+  puts " O |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
